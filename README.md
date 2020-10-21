@@ -7,11 +7,6 @@
 
 </div>
 
-### Spotify Playing
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="dodokorean Spotify Playing" width="350" />](https://open.spotify.com/user/31fijfhyzvah753rrmx4zfqkmrx4)
-
-</div>
-
 ### My Stats
 [![dodokorean's github stats](https://github-readme-stats.vercel.app/api?username=dodokorean&show_icons=true&theme=merko)]()
 
@@ -29,4 +24,4 @@
 <div align=left>
 
 [![dodokorean Discord Badge](http://img.shields.io/badge/-My%20Discord-black?style=flat-square&logo=discord&link=https://discord.gg/SGg9ZX7)](https://discord.gg/SGg9ZX7)  
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)](https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw) 
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)](https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)
