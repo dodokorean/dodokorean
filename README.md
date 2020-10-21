@@ -18,7 +18,7 @@
 
 ### Interest
 - Java Script <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
-- Python <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+- Python <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"/>
 
 <div align=left>
 
