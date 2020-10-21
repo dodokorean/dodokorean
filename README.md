@@ -2,13 +2,14 @@
 
 ## Welcome to My Profile!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodokorean)]()
-[![View](https://komarev.com/ghpvc/?username=dodokorean&style=flat-square)]() 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodokorean)](https://github.com/dodokorean)
+[![View](https://komarev.com/ghpvc/?username=dodokorean&style=flat-square)](https://github.com/dodokorean) 
 
 </div>
 
 ### My Stats
-[![dodokorean's github stats](https://github-readme-stats.vercel.app/api?username=dodokorean&show_icons=true&theme=merko)]()
+[![dodokorean's github stats](https://github-readme-stats.vercel.app/api?username=dodokorean&show_icons=true&theme=merko)](https://github.com/dodokorean)
+[![dodokorean's github stats](https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=dodokorean&show_icons=true&theme=merko&layout=compact)](https://github.com/dodokorean)
 
 </div>
 
