@@ -20,8 +20,6 @@
 - Java Script <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
 - Python <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 
-
-
 <div align=left>
 
 [![dodokorean Discord Badge](http://img.shields.io/badge/-My%20Discord-black?style=flat-square&logo=discord&link=https://discord.gg/SGg9ZX7)](https://discord.gg/SGg9ZX7)  
