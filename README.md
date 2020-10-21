@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**dodokorean/dodokorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to My Profile!
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodokorean)]()
+[![View](https://komarev.com/ghpvc/?username=dodokorean&style=flat-square)]() 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### My Stats
+[![dodokorean's github stats](https://github-readme-stats.vercel.app/api?username=dodokorean&show_icons=true&theme=merko)]()
+
+</div>
+
+### General
+- I'm Ordinary User
+- Learning Programming Language
+
+### Interest
+- Java Script
+- Python
+
+<div align=center>
+
+[![dodokorean Discord Badge](http://img.shields.io/badge/-My%20Discord-black?style=flat-square&logo=discord&link=https://discord.gg/SGg9ZX7)](https://discord.gg/SGg9ZX7)  
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)](https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw) 
