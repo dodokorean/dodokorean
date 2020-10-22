@@ -21,6 +21,10 @@
 
 - Python <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"/>
 
+- C++ <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
+
+- C# <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"/>
+
 <div align=left>
 
 [![dodokorean Discord Badge](http://img.shields.io/badge/-My%20Discord-black?style=flat-square&logo=discord&link=https://discord.gg/SGg9ZX7)](https://discord.gg/SGg9ZX7)  
