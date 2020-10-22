@@ -3,7 +3,7 @@
 ## Welcome to My Profile!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodokorean)](https://github.com/dodokorean)
-[![View](https://komarev.com/ghpvc/?username=dodokorean&style=flat-square)](https://github.com/dodokorean) 
+[![View](https://komarev.com/ghpvc/?username=dodokorean&style=round-square)](https://github.com/dodokorean) 
 </div>
 
 ### My Stats
