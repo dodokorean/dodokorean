@@ -23,5 +23,6 @@
 
 <div align=left>
 
-[![dodokorean Discord Badge](http://img.shields.io/badge/-My%20Discord-black?style=flat-square&logo=discord&link=https://discord.gg/SGg9ZX7)](https://discord.gg/SGg9ZX7)  
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)](https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)
+[![dodokorean Discord Badge](http://img.shields.io/badge/-My%20Discord-black?style=round-square&logo=discord&link=https://discord.gg/SGg9ZX7)](https://discord.gg/SGg9ZX7)  
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=round-square&logo=youtube&link=https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)](https://www.youtube.com/channel/UCVnfclpHNKOe1QkEQxYo1jw)
+</div>
