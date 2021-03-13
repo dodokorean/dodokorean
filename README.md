@@ -17,9 +17,15 @@
 - Learning Programming Language
 
 ### Interesting Language
-- Java Script <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+- NodeJS <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
+
+- JavaScript <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
 
 - Python <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"/>
+
+- Linux <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"/>
+
+- Nginx <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
 
 <div align=left>
 
