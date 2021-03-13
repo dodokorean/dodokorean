@@ -7,9 +7,9 @@
 </div>
 
 ### My Stats
-[![dodokorean's github stats](https://github-readme-stats.vercel.app/api?username=dodokorean&show_icons=true&theme=merko)](https://github.com/dodokorean)
+[![dodokorean's github stats](https://github-readme-stats.vercel.app/api?username=dodokorean&show_icons=true&theme=dracula)](https://github.com/dodokorean)
 
-[![dodokorean's github toplang](https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=dodokorean&show_icons=true&theme=merko&layout=compact)](https://github.com/dodokorean)
+[![dodokorean's github toplang](https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=dodokorean&show_icons=true&theme=dracula&layout=compact)](https://github.com/dodokorean)
 </div>
 
 ### General
