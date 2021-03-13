@@ -23,7 +23,7 @@
 
 - Python <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"/>
 
-- Linux <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"/>
+- Linux <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 
 - Nginx <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
 
